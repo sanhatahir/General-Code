@@ -30,3 +30,24 @@ Packages used:
 5. requests
 6. urllib.parse
 7. Geopandas
+
+
+File Title: 
+Sentiment Analysis
+
+Purpose: 
+Analyzing language of Department of Justice press releases
+
+Dataset used:
+DoJ Press Releases
+
+Packages used: 
+1. Pandas
+2. Matplotlib
+3. Numpy
+4. Regex
+5. Datetime
+6. NLTK
+7. Spacy
+8. sklearn
+9. Gensim
