@@ -1,7 +1,7 @@
 # Portfolio
 
-<h1>
  Well, hello there!
+<h1>
   <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="75px"/>
 </h1>
 
@@ -25,7 +25,7 @@ https://public.tableau.com/app/profile/sanha.tahir
 ---
 
 
-:blue_book: [Exploring Sentencing Data]
+📘: [Exploring Sentencing Data]
 
 Purpose: 
 Using Cook County's (in Illinois) sentencing dataset that reports the sentence given to defendants convicted of different crimes.
@@ -38,7 +38,7 @@ Packages used:
 
 ---
 
-:red_book: [Exploring H1 Visa Violations] 
+📗: [Exploring H1 Visa Violations] 
 
 Purpose:
 Analyzing the broader issue of which employers might be violating the rights of temporary guestworkers granted visas under the H-2A program
@@ -54,7 +54,7 @@ Packages used:
 
 ---
 
-:green_book: [Sentiment Analysis] 
+📙: [Sentiment Analysis] 
 
 Purpose: 
 Analyzing language of Department of Justice press releases
@@ -74,7 +74,7 @@ Packages used:
 
 ### Machine Learning prjects: 
 
-:red_book: [Sentiment Modelling using VADER & Keras] 
+📗: [Sentiment Modelling using VADER & Keras] 
 
 Purpose: 
 Categorize messages as positive or not -> Training a model to classify any text as positive or not
